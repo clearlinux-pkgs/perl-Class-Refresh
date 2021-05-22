@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Refresh
 Version  : 0.07
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/D/DO/DOY/Class-Refresh-0.07.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DO/DOY/Class-Refresh-0.07.tar.gz
 Summary  : 'refresh your classes during runtime'
